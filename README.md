@@ -99,7 +99,15 @@ Indicators identified:
 - Authentication Analysis
 - Social Engineering Detection
 - Threat Classification
+  
+---
 
+## Quick Navigation
+
+- [Analysis Reports](./analysis)
+- [Evidence](./evidence)
+- [Samples](./samples)
+- [Final Report](./report)
 ---
 
 ## Final Analyst Conclusion
